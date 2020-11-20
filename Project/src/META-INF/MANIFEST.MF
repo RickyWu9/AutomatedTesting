@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: Main
+Class-Path: com.ibm.wala.core-1.5.4.jar com.ibm.wala.util-1.5.4.jar com.
+ ibm.wala.shrike-1.5.4.jar
+
